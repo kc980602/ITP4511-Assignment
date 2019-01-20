@@ -1,0 +1,115 @@
+.hr {
+    border-bottom: 1px solid #ccc;
+}
+
+.navbar-custom {
+    background-color: #34495e;
+    padding: 0px;
+}
+
+#topmenu .navbar-nav {
+    display: -webkit-box;
+}
+
+#topmenu .nav-link {
+    border-left: 1px solid #FFF !important;
+    padding: 0.3rem 0.5rem !important;
+}
+
+#topmenu .nav-link-last {
+    border-right: 1px solid #FFF !important;
+}
+
+.navbar-nav .nav-link:hover {
+    background-color: #647A90;
+}
+
+.navbar-nav a {
+    color: #FFF;
+}
+
+.nav-title {
+    background-color: #34495e;
+    color: #FFF;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+    list-style-type: none;
+    margin: 0 0.3rem;
+}
+
+.nav-content {
+    margin: 0 0.3rem;
+}
+
+.welcome {
+    margin-top: 0.83em;
+}
+
+.content-title {
+    margin: 0 .3rem;
+}
+
+.he-maincontent {
+    min-width: 1100px;
+    display: -webkit-inline-box;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: 0px;
+}
+
+.he-maincontent-left {
+    min-width: 210px;
+}
+
+.he-maincontent-right {
+    min-width: 900px;
+}
+
+.he-maincontent-left .content {
+    margin: 0.3rem;
+    margin-top: 0;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-top: none;
+    border-radius: 0 0 .25rem .25rem;
+}
+
+.he-maincontent-right .content {
+    margin: 0.3rem;
+    margin-top: 0;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-top: none;
+    border-radius: 0 0 .25rem .25rem;
+    padding: 1rem;
+}
+
+.he-maincontent-right .closed-content {
+    margin: 0.3rem;
+    margin-top: 0;
+    border: 1px solid rgba(0, 0, 0, .125);
+    border-radius: .25rem;
+    padding: 1rem;
+}
+
+.control {
+    margin-bottom: .8rem;
+}
+
+.table {
+    margin-bottom: 0;
+    margin-top: 1rem;
+}
+.alert {
+    padding: .5rem 1.25rem;
+    margin-bottom: 0;
+}
+
+.btn-sm {
+    line-height: 1;
+}
+.overflow {
+    overflow-wrap: normal;
+}
+
+table#group tr:hover { 
+    background-color: #F2F2F2;
+}
